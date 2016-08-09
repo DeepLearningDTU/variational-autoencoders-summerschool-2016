@@ -24,4 +24,4 @@ All exercises are written in Python programming language and formatted into Jupy
 
 Run the notebooks
 ------------
-Download the repository from Github and run in a terminal: jupyter notebook. This should start your preferred browser and you should be up and running. If you have issues while running the notebooks, we recommend that you use the newest version of Chrome.
+Download the repository from Github and run in a terminal: jupyter notebook. This should start your default browser and you should be up and running. If you have issues while running the notebooks, we recommend that you use the newest version of Chrome.
