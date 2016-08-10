@@ -28,7 +28,7 @@ All exercises are written in Python programming language and formatted into Jupy
 
 - In a terminal/command prompt run: pip install lasagne
 
-- In a terminal/command prompt run: pip install --upgrade https://github.com/Theano/Theano/archive/master.zip --no-deps
+- In a terminal/command prompt run: pip install --upgrade https://github.com/Lasagne/Lasagne/archive/master.zip --no-deps
 
 Run the notebooks
 ------------
